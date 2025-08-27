@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Eliksha/Eliksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Eliksha 👋  
+
+👩‍💻 Final Year CSE Student @ VIT Chennai  
+💡 Passionate about Machine Learning, Deep Learning & Computer Vision  
+🌱 Always eager to learn, build, and grow!  
